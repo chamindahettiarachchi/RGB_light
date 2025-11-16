@@ -99,7 +99,7 @@ void motorOFF(){
 
 void loop() {
   //motorON();
-  //motor(OFF);
+  //motorOFF();
 //green(1000);
 //red (1000);
 //blue (1000);
